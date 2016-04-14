@@ -1,0 +1,12 @@
+#set($layout="/layout/main.vm")
+
+#define($title)
+Main
+#end
+
+#define($referJs)
+#end
+
+#define($content)
+    Hello Velocity Boot !
+#end
